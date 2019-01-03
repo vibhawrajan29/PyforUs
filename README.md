@@ -88,6 +88,8 @@ So normally you might want to do the following:
 
 **None as of now  but we will use google co lab for all the execerices**
  Google Co lab [google collab](https://colab.research.google.com/notebooks/welcome.ipynb) ,use your google sign in 
+ if you have any issue in viewing any jupyter notebook .pynb file use [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/)
+
 
 **Interested ones can Install Python or Anaconda**
 
