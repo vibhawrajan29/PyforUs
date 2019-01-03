@@ -2,7 +2,7 @@
 
 These are my answers for exercises in the chapters. If your solution
 isn't exactly like mine but it works just fine it's ok, and you can
-[ask me](../contact-me.md) why I didn't do it like you did it.
+ask me why I didn't do it like you did it.
 
 ## ThinkPython: The way of the program
 
@@ -434,13 +434,3 @@ isn't exactly like mine but it works just fine it's ok, and you can
     ```
 
 ***
-
-If you have trouble with this tutorial please [tell me about
-it](../contact-me.md) and I'll make this tutorial better. If you
-like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
-
-[List of contents](../README.md#list-of-contents)
