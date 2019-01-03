@@ -448,7 +448,7 @@ def greet():
 
 try:
     greet()
-except OSError:
+except OSError:  
     print("Cannot read '%s'!" % filename, file=sys.stderr)
     if askyesno("Would you like to create a default greeting file?"):
         with open(filename, 'w') as f:
