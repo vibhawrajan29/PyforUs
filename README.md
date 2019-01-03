@@ -91,7 +91,7 @@ So normally you might want to do the following:
 
 **Interested ones can Install Python or Anaconda**
 
-Make sure that you have [Python3 installed](https://realpython.com/installing-python/) on your machine.
+Those insterested Please make sure that you have [Python3 installed](https://realpython.com/installing-python/) on your machine.
 
 You might want to use [venv](https://docs.python.org/3/library/venv.html) standard Python library
 to create virtual environments and have Python, pip and all dependent packages to be installed and 
