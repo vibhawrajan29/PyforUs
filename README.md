@@ -1,6 +1,6 @@
-# Playground and Cheatsheet for Learning Python
+# Playground for Learning Python
 
-[![Build Status](https://travis-ci.org/trekhleb/learn-python.svg?branch=master)](https://travis-ci.org/trekhleb/learn-python)
+
 
 > This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
 code examples with explanations, different use cases and links to further readings.
@@ -16,34 +16,6 @@ syntax of [standard Python statements and constructions](#table-of-contents). Al
 code is full of assertions you'll be able to see expected functions/statements output right away
 without launching them.
 
-## How to Use This Repository
-
-Each Python script in this repository has the following structure:
-
-```python
-"""Lists  <--- Name of the topic here
-
-# @see: https://www.learnpython.org/en/Lists  <-- Link to further readings goes here
-
-Here might go more detailed explanation of the current topic (i.e. general info about Lists).
-"""
-
-
-def test_list_type():
-    """Explanation of sub-topic goes here.
-    
-    Each file contains test functions that illustrate sub-topics (i.e. lists type, lists methods).
-    """
-    
-    # Here is an example of how to build a list.  <-- Comments here explain the action
-    squares = [1, 4, 9, 16, 25]
-    
-    # Lists can be indexed and sliced. 
-    # Indexing returns the item.
-    assert squares[0] == 1  # <-- Assertions here illustrate the result.
-    # Slicing returns a new list.
-    assert squares[-3:] == [9, 16, 25]  # <-- Assertions here illustrate the result.
-```
 
 So normally you might want to do the following:
 
