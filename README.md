@@ -96,7 +96,10 @@ written correctly.
 
 ## Prerequisites
 
-**Installing Python**
+**None as of now  but we will use google co lab for all the execerices**
+ Google Co lab [google collab](https://colab.research.google.com/notebooks/welcome.ipynb) ,use your google sign in 
+
+**Interested ones can Install Python or Anaconda**
 
 Make sure that you have [Python3 installed](https://realpython.com/installing-python/) on your machine.
 
@@ -127,58 +130,4 @@ pip install -r requirements.txt
 
 ## Testing the Code
 
-Tests are made using [pytest](https://docs.pytest.org/en/latest/) framework.
-
-You may add new tests for yourself by adding files and functions with `test_` prefix
-(i.e. `test_topic.py` with `def test_sub_topic()` function inside).
-
-To run all the tests please execute the following command from the project root folder:
-
-```bash
-pytest
-```
-
-To run specific tests please execute:
-
-```bash
-pytest ./path/to/the/test_file.py
-```
-
-## Linting the Code
-
-Linting is done using [pylint](http://pylint.pycqa.org/) and [flake8](http://flake8.pycqa.org/en/latest/) libraries.
-
-### PyLint
-
-To check if the code is written with respect
-to [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide please run:
-
-```bash
-pylint ./src/
-```
-
-In case if linter will detect error (i.e. `missing-docstring`) you may want to read more about 
-specific error by running:
-
-```bash
-pylint --help-msg=missing-docstring
-```
-
-[More about PyLint](http://pylint.pycqa.org/)
-
-### Flake8
-
-To check if the code is written with respect
-to [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide please run:
-
-```bash
-flake8 ./src
-```
-
-Or if you want to have more detailed output you may run:
-
-```bash
-flake8 ./src --statistics --show-source --count
-```
-
-[More about Flake8](http://flake8.pycqa.org/en/latest/)
+Tests are made using Google Co lab [google collab](https://colab.research.google.com/notebooks/welcome.ipynb) ,use your google sign in 
