@@ -1,20 +1,11 @@
-# Playground for Learning Python
+# Learning Python
 
 
 
 > This is a collection of Python scripts that are split by [topics](#table-of-contents) and contain 
 code examples with explanations, different use cases and links to further readings.
 
-It is a **playground** because you may change or add the code to see how it works 
-and [test it out](#testing-the-code) using assertions. It also allows you 
-to [lint the code](#linting-the-code) you've wrote and check if it fits to Python code style guide.
-Altogether it might make your learning process to be more interactive and it might help you to keep 
-code quality pretty high from very beginning.
 
-It is a **cheatsheet** because you may get back to these code examples once you want to recap the 
-syntax of [standard Python statements and constructions](#table-of-contents). Also because the 
-code is full of assertions you'll be able to see expected functions/statements output right away
-without launching them.
 
 
 So normally you might want to do the following:
@@ -23,8 +14,7 @@ So normally you might want to do the following:
 - Read comments and/or documentation that is linked in each script's docstring (as in example above). 
 - Look at code examples and assertions to see usage examples and expected output.
 - Change code or add new assertions to see how things work.
-- [Run tests](#testing-the-code) and [lint the code](#linting-the-code) to see if it work and is 
-written correctly.
+- Run teststo see if it work and is written correctly.
 
 ## Table of Contents
 
