@@ -1,7 +1,7 @@
 # Default configuration for Synthetic model creation.
 
 # The parameter settings below match the default settings 
-# in Gretel's open source synthetic package
+# open source synthetic package
 
 schema_version: "1.0"
 
